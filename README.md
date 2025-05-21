@@ -16,7 +16,8 @@ Onde:
 * 𝜃 é o ângulo em radianos ou graus.
 
 # 📸 Preview da interface
-![image](https://github.com/user-attachments/assets/44c8b3ef-d918-400d-8075-5547519c603e)
+![image](https://github.com/user-attachments/assets/3c87293b-8e15-4b6e-8023-fd96a7fb69a1)
+
 
 
 # 📚 Referência
